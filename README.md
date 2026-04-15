@@ -11,13 +11,6 @@
 
 <br/>
 
-## 🎓 Profile
-- 🔭 **Focus:** Junior Year student specializing in Software Engineering.
-- 🗣️ **Languages:** Vietnamese, English, and French.
-- 🏛️ **Background:** Alumna of Le Hong Phong High School for the Gifted.
-
-<br/>
-
 ## 🛠️ Technical Skills
 | Category | Stack |
 | :--- | :--- |
@@ -27,18 +20,6 @@
 | **Concepts** | OOP, RESTful APIs, System Design, UML |
 
 <br/>
-
-## 🚀 Featured Projects
-### [Online Auction Web App](https://github.com/npmthu) | *ReactJS, SQL, JavaScript*
-- Developed a responsive front-end for real-time bidding and transaction tracking.
-- Designed a relational database schema to manage secure authentication and concurrent data.
-
-### [Android Mobile Application](https://github.com/npmthu) | *Java, Android Studio*
-- Engineered a native app with an intuitive and responsive user interface.
-- Implemented core functionalities following strict software engineering principles for stability.
-
-<br/>
-
 
 ## 📊 GitHub Activities
 <div align="center">
