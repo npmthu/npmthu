@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>About Me</h2>
   <p>
     <a href="mailto:npmthu.se@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/npmthu23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
