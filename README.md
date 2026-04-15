@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>About Me</h1>
+  <h2>About Me</h2>
   <p>
     <a href="mailto:npmthu.se@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/npmthu23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -8,7 +8,6 @@
   <p><b>Hi, I'm Thu Nguyen 👋 I am a Software Engineering Student @ VNU-HCM University of Science</b>
   </p>
   <p>I am deeply passionate about the intersection of Applied AI and software development. With a strong foundation in Software Engineering, I focus on integrating machine learning models into scalable architectures.</p>
-  <p>📍 Ho Chi Minh City, Vietnam</p>
 </div>
 
 <br/>
