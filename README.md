@@ -5,7 +5,9 @@
     <a href="https://www.linkedin.com/in/npmthu23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/npmthu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
-  <p><b>Hi, I'm Thu Nguyen 👋 I am a Software Engineering Student @ VNU-HCM University of Science</b></p>
+  <p><b>Hi, I'm Thu Nguyen 👋 I am a Software Engineering Student @ VNU-HCM University of Science</b>
+  </p>
+  <p>I am deeply passionate about the intersection of Applied AI and software development. With a strong foundation in Software Engineering, I focus on integrating machine learning models into scalable architectures.</p>
   <p>📍 Ho Chi Minh City, Vietnam</p>
 </div>
 
@@ -24,18 +26,18 @@
 | **Programming** | Java, JavaScript, Python, C++/C, SQL, HTML/CSS, TypeScript |
 | **Frameworks** | Spring Boot, ReactJS, Node.js, FastAPI, PostgreSQL, Redis |
 | **Tools & DevOps** | Docker, Git/GitHub, VS Code, Jira, Agile/Scrum |
-| **Concepts** | OOP, RESTful APIs, System Design, UML [cite: 20] |
+| **Concepts** | OOP, RESTful APIs, System Design, UML |
 
 <br/>
 
 ## 🚀 Featured Projects
 ### [Online Auction Web App](https://github.com/npmthu) | *ReactJS, SQL, JavaScript*
-- Developed a responsive front-end for real-time bidding and transaction tracking[cite: 23, 25].
-- Designed a relational database schema to manage secure authentication and concurrent data[cite: 26].
+- Developed a responsive front-end for real-time bidding and transaction tracking.
+- Designed a relational database schema to manage secure authentication and concurrent data.
 
 ### [Android Mobile Application](https://github.com/npmthu) | *Java, Android Studio*
-- Engineered a native app with an intuitive and responsive user interface[cite: 31, 33].
-- Implemented core functionalities following strict software engineering principles for stability[cite: 34].
+- Engineered a native app with an intuitive and responsive user interface.
+- Implemented core functionalities following strict software engineering principles for stability.
 
 <br/>
 
